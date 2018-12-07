@@ -1,4 +1,4 @@
-Shuttleworth Foundation Flash grant spending log
+## Shuttleworth Foundation Flash grant spending log
 
 | ShortDesc | In/$ | Out/$ | Done/Plan |
 | ------------- | ------------- | ------------- | ------------- |
