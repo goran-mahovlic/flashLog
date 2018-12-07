@@ -4,6 +4,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Grant received || 5000$ | | done |
 | Soldering oven || | 1500$ | plan |
+| Ultrasound probe || | 250$ | plan |
 | OpenHardware PCB | | | | plan |
 | ULX3S parts ||| 60$ | done |
 | ULX3S design |||| plan |
