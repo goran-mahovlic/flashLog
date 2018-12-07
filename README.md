@@ -3,7 +3,7 @@
 | ShortDesc | Planned | In/$ | Out/$ | Done/Plan |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Grant received || 5000$ | | done |
-| Soldering oven || | 1000$ | plan |
+| Soldering oven || | 1500$ | plan |
 | OpenHardware PCB | | | | plan |
 | ULX3S parts ||| 60$ | done |
 | ULX3S design |||| plan |
