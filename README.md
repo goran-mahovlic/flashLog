@@ -2,7 +2,7 @@
 
 | ShortDesc | Planned | In/$ | Out/$ | Done/Plan |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Grant received || 5000$ | | done |
+| Grant received || 4994$ | | done |
 | Soldering oven || | 1500$ | plan |
 | Ultrasound probe ||| 250$ | plan |
 | Ultrasound GEL ||| 17$ | plan |
