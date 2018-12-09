@@ -3,14 +3,14 @@
 | ShortDesc | Planned | In/$ | Out/$ | Done/Plan |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Grant received || 4994$ | | done |
-| Soldering oven || | 1500$ | plan |
 | Ultrasound probe ||| 225$ | done |
-| Ultrasound GEL ||| 17$ | done |
-| OpenHardware PCB | | | | plan |
+| Ticket 35C3 ||| 160$ | done |
 | ULX3S parts ||| 60$ | done |
+| Ultrasound GEL ||| 17$ | done |
+| Soldering oven || | 1500$ | plan |
+| OpenHardware PCB | | | | plan |
 | ULX3S design |||| plan |
 | ULX3S production help |||| plan |
-| Ticket 35C3 ||| 160$ | done |
 | Trip 35C3 |||| plan |
 | Sleep |||| plan |
 | DonationBoxV3 PCB |||| plan |
