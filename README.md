@@ -7,6 +7,7 @@
 | Ticket 35C3 ||| 160$ | done |
 | ULX3S parts ||| 60$ | done |
 | Ultrasound GEL ||| 17$ | done |
+| Spot-welder 788H ||| 200$ | plan |
 | Soldering oven || | 1500$ | plan |
 | OpenHardware PCB | | | | plan |
 | ULX3S design |||| plan |
