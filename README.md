@@ -5,9 +5,9 @@
 | Grant received || 4994$ | | done |
 | Ultrasound probe ||| 225$ | done |
 | Ticket 35C3 ||| 160$ | done |
-| ULX3S parts ||| 60$ | done |
+| ULX3S parts ||| 100$ | done |
 | Ultrasound GEL ||| 17$ | done |
-| Spot-welder 788H ||| 200$ | plan |
+| Spot-welder 788H ||| 200$ | done |
 | Soldering oven || | 1500$ | plan |
 | OpenHardware PCB | | | | plan |
 | ULX3S design |||| plan |
@@ -20,7 +20,7 @@
 | Fix lemilica.com |||| plan |
 | Micro exibition |||| plan |
 | Collaboation BIOM - ULP LoRa |||| plan |
-| Total ||4994$|-462$||
-| Left ||||4532$|
+| Total ||4994$|-702$||
+| Left ||||4292$|
 
 ![Logo](https://github.com/ShuttleworthFoundation/Logos/blob/master/Shuttleworth%20Funded/Shuttleworth%20Funded%20CMYK/Shuttleworth%20Funded.svg)
