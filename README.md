@@ -8,19 +8,19 @@
 | ULX3S parts ||| 100$ | done |
 | Ultrasound GEL ||| 17$ | done |
 | Spot-welder 788H ||| 200$ | done |
-| Soldering oven || | 1500$ | plan |
+| Soldering oven || | 1200$ | done |
+| Fix lemilica.com |||| done |
+| Trip 35C3 |||$| done |
+| Sleep 35C3 |||$| done |
 | OpenHardware PCB | | | | plan |
 | ULX3S design |||| plan |
 | ULX3S production help |||| plan |
-| Trip 35C3 |||| plan |
-| Sleep |||| plan |
 | DonationBoxV3 PCB |||| plan |
 | DonationBoxV3/LoRa workshop |||| plan |
-| Finishing Dr. Böhm Professional 2000 Orgel |||| plan |  
-| Fix lemilica.com |||| plan |
 | Micro exibition |||| plan |
+| Finishing Dr. Böhm Professional 2000 Orgel |||| plan |  
 | Collaboation BIOM - ULP LoRa |||| plan |
-| Total ||4994$|-702$||
-| Left ||||4292$|
+| Total ||4994$|-1902$||
+| Left ||||3092$|
 
 ![Logo](https://github.com/ShuttleworthFoundation/Logos/blob/master/Shuttleworth%20Funded/Shuttleworth%20Funded%20CMYK/Shuttleworth%20Funded.svg)
