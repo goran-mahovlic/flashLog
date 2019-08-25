@@ -8,6 +8,7 @@
 | ULX3S parts || 100$ | done |
 | Spot-welder 788H || 200$ | done |
 | Soldering oven || 1200$ | done |
+| Preheather || 100$ | done |
 | Ticket 35C3 || 160$ | done |
 | Trip 35C3 ||496.87$| done |
 | Sleep 35C3 ||235.95$| done |
@@ -20,7 +21,7 @@
 | LoRa workshop || 100$ | done | sensors from ebay and PCB - rest was financed by radiona https://github.com/goran-mahovlic/ESP32_LoRa_Workshop |
 | Finishing Dr. Böhm Professional 2000 Orgel ||| plan | Did not have time to finish |
 | Collaboation BIOM - ULP LoRa ||| plan | will be done soon at camp organised by radiona |
-| Total |4994$|-6248.82$||
+| Total |4994$|-6348.82$||
 | Left |||0$|
 
 ![Logo](https://github.com/ShuttleworthFoundation/Logos/blob/master/Shuttleworth%20Funded/Shuttleworth%20Funded%20CMYK/Shuttleworth%20Funded.svg)
