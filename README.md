@@ -12,12 +12,12 @@
 | Trip 35C3 ||496.87$| done |
 | Sleep 35C3 ||235.95$| done |
 | Fix lemilica.com ||0$| done |
-| OpenHardware PCB | | 100$ | partialy done |
-| ULX3S design || 200$ | plan |
+| OpenHardware PCB | | 100$ | partialy done | https://github.com/goran-mahovlic/ulx3s-PMOD |
+| ULX3S design changes || 200$ | done |
 | ULX3S production help || 2000$ | ordered | -- need to pay to https://www.watterott.com/ all what is left from Shuttleworth rest is on me |
 | Stencil/parts/LED panels for FPGA || 200$ | done |
-| DonationBoxV3 PCB || 20$ | done |
-| LoRa workshop || 100$ | done | sensors from ebay and PCB - rest was financed by radiona |
+| DonationBoxV3 PCB || 20$ | done | https://github.com/goran-mahovlic/Radiona_Donationbox |
+| LoRa workshop || 100$ | done | sensors from ebay and PCB - rest was financed by radiona https://github.com/goran-mahovlic/ESP32_LoRa_Workshop |
 | Finishing Dr. Böhm Professional 2000 Orgel ||| plan | Did not have time to finish |
 | Collaboation BIOM - ULP LoRa ||| plan | will be done soon at camp organised by radiona |
 | Total |4994$|-6248.82$||
