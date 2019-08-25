@@ -1,7 +1,7 @@
 ## Shuttleworth Foundation Flash grant spending log
 
-| ShortDesc | Planned | In/$ | Out/$ | Done/Plan |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ShortDesc | Planned | In/$ | Out/$ | Done/Plan | Info |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Grant received || 4994$ | | done |
 | Ultrasound probe ||| 225$ | done |
 | Ultrasound GEL ||| 17$ | done |
@@ -14,12 +14,12 @@
 | Fix lemilica.com |||0$| done |
 | OpenHardware PCB | | | 100$ | partialy done |
 | ULX3S design ||| 200$ | plan |
-| ULX3S production help ||| 2000$ | ordered | -- need to pay to https://www.watterott.com/ all what is left from Shuttleworth rest is on me
+| ULX3S production help ||| 2000$ | ordered | -- need to pay to https://www.watterott.com/ all what is left from Shuttleworth rest is on me |
 | Stencil/parts/LED panels for FPGA ||| 200$ | done |
 | DonationBoxV3 PCB |||20$ | done |
-| LoRa workshop ||| 100$ | done | -- sensors from ebay and PCB - rest was financed by radiona
-| Finishing Dr. Böhm Professional 2000 Orgel |||| plan | -- didi not have time to finish
-| Collaboation BIOM - ULP LoRa |||| plan | -- will be done soon at camp organised by radiona
+| LoRa workshop ||| 100$ | done | sensors from ebay and PCB - rest was financed by radiona |
+| Finishing Dr. Böhm Professional 2000 Orgel |||| plan | Did not have time to finish |
+| Collaboation BIOM - ULP LoRa |||| plan | will be done soon at camp organised by radiona |
 | Total ||4994$|-6248.82$||
 | Left ||||0$|
 
